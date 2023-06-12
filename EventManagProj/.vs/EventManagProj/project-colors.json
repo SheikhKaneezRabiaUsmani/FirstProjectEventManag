@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbe1fecd-3ab4-47dc-8bad-5a41bfe95f06": {
+      "ProjectGuid": "dbe1fecd-3ab4-47dc-8bad-5a41bfe95f06",
+      "DisplayName": "EventManagProj",
+      "ColorIndex": 0
+    },
+    "2189baef-02d4-4e23-adba-27f3ef6de9a7": {
+      "ProjectGuid": "2189baef-02d4-4e23-adba-27f3ef6de9a7",
+      "DisplayName": "Event.DOM",
+      "ColorIndex": 1
+    },
+    "76d1cb00-409d-42fe-ac08-830def681855": {
+      "ProjectGuid": "76d1cb00-409d-42fe-ac08-830def681855",
+      "DisplayName": "Event.DAL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

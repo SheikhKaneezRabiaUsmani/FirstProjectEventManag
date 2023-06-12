@@ -1,0 +1,12 @@
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\bin\Debug\net6.0\Event.DOM.deps.json
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\bin\Debug\net6.0\Event.DOM.dll
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\bin\Debug\net6.0\ref\Event.DOM.dll
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\bin\Debug\net6.0\Event.DOM.pdb
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\Event.DOM.csproj.AssemblyReference.cache
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\Event.DOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\Event.DOM.AssemblyInfoInputs.cache
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\Event.DOM.AssemblyInfo.cs
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\Event.DOM.csproj.CoreCompileInputs.cache
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\Event.DOM.dll
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\ref\Event.DOM.dll
+D:\C SHARP TUTORIAL\EventManagProj\Event.DOM\obj\Debug\net6.0\Event.DOM.pdb
