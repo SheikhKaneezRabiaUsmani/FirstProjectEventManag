@@ -1,0 +1,12 @@
+"Data Source=LAPTOP-44SO5CQD;Integrated Security=True;Initial Catalog=HospitalDB;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
+ sa
+sa@123
+
+
+sa
+sa123
+
+rabia
+
+
